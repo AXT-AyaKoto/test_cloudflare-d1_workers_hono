@@ -1,0 +1,12 @@
+{
+	"name": "test_cloudflare-d1_workers_hono",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-05-25",
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "highscores-db",
+			"database_id": "efcd4e15-53a1-4e09-98aa-eeab706b26af"
+		}
+	]
+}
